@@ -4,7 +4,7 @@ origional link: https://github.com/iddbh/Hotel
 ## Technology stack 
 React+SpringBoot+SpringSecurity+Redis+Mybatis +MySQL
 ## Project description
-This project is based on Ctrip, Airbnb as the prototype of the development of accommodation booking platform, consumers can view, collection, booking, payment, evaluation, contact businesses and other operations, businesses can view the flow, modify hotel information and other operations
+This project is a development of accommodation booking platform based on Ctrip and Airbnb, consumers can view, collection, booking, payment, evaluation, contact businesses and other operations, businesses can view the flow, modify hotel information and other operations
 
 ## Project responsibilities:
 Use SpringSecurity+JWT for authentication and authentication  
